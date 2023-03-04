@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab1ded9b-7c9a-442f-90f3-4e6f642c84ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UsingTryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/UsingTryCatch/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/temp.txt" afterDir="false" />
+    <list default="true" id="ab1ded9b-7c9a-442f-90f3-4e6f642c84ad" name="Changes" comment="New file Created">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UsingTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UsingTryCatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +82,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677939326096</updated>
     </task>
+    <task id="LOCAL-00001" summary="New file Created">
+      <created>1677940226414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677940226414</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New file Created" />
+    <option name="LAST_COMMIT_MESSAGE" value="New file Created" />
   </component>
 </project>
